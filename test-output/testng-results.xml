@@ -41,12 +41,12 @@
       <![CDATA[Close the browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-02-15T09:15:13 IST" name="Suite" finished-at="2023-02-15T09:16:04 IST" duration-ms="51833">
+  <suite started-at="2023-02-15T21:32:34 IST" name="Suite" finished-at="2023-02-15T21:32:56 IST" duration-ms="22967">
     <groups>
     </groups>
-    <test started-at="2023-02-15T09:15:13 IST" name="Test" finished-at="2023-02-15T09:16:04 IST" duration-ms="51833">
+    <test started-at="2023-02-15T21:32:34 IST" name="Test" finished-at="2023-02-15T21:32:56 IST" duration-ms="22967">
       <class name="scripts.TestCase1">
-        <test-method is-config="true" signature="openApp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:scripts.TestCase1@35e2d654]" started-at="2023-02-15T09:15:13 IST" name="openApp" finished-at="2023-02-15T09:15:33 IST" duration-ms="20179" status="PASS">
+        <test-method is-config="true" signature="openApp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:scripts.TestCase1@35e2d654]" started-at="2023-02-15T21:32:34 IST" name="openApp" finished-at="2023-02-15T21:32:43 IST" duration-ms="9480" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -79,7 +79,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="testA()[pri:0, instance:scripts.TestCase1@35e2d654]" started-at="2023-02-15T09:15:33 IST" name="testA" finished-at="2023-02-15T09:15:47 IST" duration-ms="13980" status="PASS">
+        <test-method signature="testA()[pri:0, instance:scripts.TestCase1@35e2d654]" started-at="2023-02-15T21:32:43 IST" name="testA" finished-at="2023-02-15T21:32:44 IST" duration-ms="930" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[actiTIME - Login]]>
@@ -89,7 +89,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- testA -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:scripts.TestCase1@35e2d654]" started-at="2023-02-15T09:15:47 IST" name="closeApp" finished-at="2023-02-15T09:15:47 IST" duration-ms="430" status="PASS">
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:scripts.TestCase1@35e2d654]" started-at="2023-02-15T21:32:44 IST" name="closeApp" finished-at="2023-02-15T21:32:44 IST" duration-ms="261" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close the browser]]>
@@ -98,7 +98,7 @@
         </test-method> <!-- closeApp -->
       </class> <!-- scripts.TestCase1 -->
       <class name="scripts.ValidLogin">
-        <test-method is-config="true" signature="openApp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:scripts.ValidLogin@5656be13]" started-at="2023-02-15T09:15:47 IST" name="openApp" finished-at="2023-02-15T09:15:59 IST" duration-ms="12257" status="PASS">
+        <test-method is-config="true" signature="openApp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:scripts.ValidLogin@5656be13]" started-at="2023-02-15T21:32:44 IST" name="openApp" finished-at="2023-02-15T21:32:53 IST" duration-ms="8278" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -131,14 +131,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="testValidLogin()[pri:1, instance:scripts.ValidLogin@5656be13]" started-at="2023-02-15T09:15:59 IST" name="testValidLogin" finished-at="2023-02-15T09:16:04 IST" duration-ms="4583" status="PASS">
+        <test-method signature="testValidLogin()[pri:1, instance:scripts.ValidLogin@5656be13]" started-at="2023-02-15T21:32:53 IST" name="testValidLogin" finished-at="2023-02-15T21:32:56 IST" duration-ms="3747" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[HomePage is displayed]]>
             </line>
           </reporter-output>
         </test-method> <!-- testValidLogin -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:scripts.ValidLogin@5656be13]" started-at="2023-02-15T09:16:04 IST" name="closeApp" finished-at="2023-02-15T09:16:04 IST" duration-ms="314" status="PASS">
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:scripts.ValidLogin@5656be13]" started-at="2023-02-15T21:32:56 IST" name="closeApp" finished-at="2023-02-15T21:32:56 IST" duration-ms="201" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Close the browser]]>
